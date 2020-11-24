@@ -9,4 +9,4 @@
 4. Din directorul `main` rulați `npm install`
 5. Din directorul `main` rulați `npm test`
 6. Faceți commit și push pentru schimbările făcute
-7. Dați share repository-ului cu `andrei_toma_` sau `andrei.toma@ie.ase.ro`
+7. Dați share repository-ului cu eduard.budacu@gmail.com
